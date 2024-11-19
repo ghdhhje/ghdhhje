@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Rohan kapri
-- 👀 I’m interested in competitive programming 
+- 👀 I’m interested in competitive programming and mathematics algorithm problem solving programs 
 - 🌱 I’m currently learning machine learning and artifical intelligence 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my LinkedIn 
